@@ -1,3 +1,0 @@
-Essencial;Despesas essenciais
-Lazer;Despesas relacionadas ao lazer
-Contas;Pagamento de contas

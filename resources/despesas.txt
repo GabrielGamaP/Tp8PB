@@ -1,3 +1,0 @@
-2023-01-15;Compra supermercado;120.0;false;Essencial
-2023-02-01;Cinema;30.0;false;Lazer
-2023-02-10;Aluguel;800.0;false;Contas
