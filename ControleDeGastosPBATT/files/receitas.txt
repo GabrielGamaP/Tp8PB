@@ -1,0 +1,3 @@
+2023-01-20;Salário;3000.0;Essencial
+2023-02-05;Prêmio;500.0;Lazer
+2023-02-15;Freelance;200.0;Contas

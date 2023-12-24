@@ -1,0 +1,3 @@
+2023-01-15;Nota sobre a compra do supermercado
+2023-02-01;Nota sobre o cinema
+2023-02-10;Nota sobre o pagamento do aluguel
